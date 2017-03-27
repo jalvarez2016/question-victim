@@ -1,0 +1,13 @@
+body{
+    background-size: cover;    
+    background-repeat: no-repeat;
+    
+}
+
+body {
+  background: url('http://1.bp.blogspot.com/-loVL8r5T7FE/Uk9B0aPSsKI/AAAAAAAAbSc/istm6z-kyiU/s1600/knowledge-is-power1.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
