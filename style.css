@@ -1,6 +1,7 @@
 body{
     background-size: cover;    
     background-repeat: no-repeat;
+    text-align: center
     
 }
 
@@ -10,4 +11,17 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+
+h1{
+  color:red;
+}
+
+#child{
+  color:red;
+}
+
+#adult{
+  color:red;
 }

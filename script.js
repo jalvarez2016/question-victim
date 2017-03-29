@@ -22,14 +22,14 @@ var ScriptEducators = [
 
       $("#child").click(function(){
           
-          $('#student').append(ScriptEders[Math.floor(Math.random()*8)] + ' ANSWER MY QUESTIONS!!!!');
+          $('#student').append(ScriptEders[Math.floor(Math.random()*8)] + ', ANSWER MY QUESTIONS!!!!');
           
       });
  
  
       $("#adult").click(function(){
         
-          $('#teacher').append(ScriptEducators[Math.floor(Math.random()*4)] + ' ANSWER MY QUESTIONS!!!!');
- 
+          $('#teacher').append(ScriptEducators[Math.floor(Math.random()*4)] + ', ANSWER MY QUESTIONS!!!!');
+    
       });
 });
